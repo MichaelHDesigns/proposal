@@ -3,10 +3,10 @@ var Bitcore = require('@axerunners/axecore-lib');
 var socket;
 var paymentCycle;
 
-var mainnetProvider = 'https://insight.axecore.net';
+var mainnetProvider = 'https://insight.hth.world/';
 var mainnetPrefix = '/insight-api';
 
-var testnetProvider = 'https://testnet-insight.axecore.net';
+var testnetProvider = 'https://insight.hth.world/';
 var testnetPrefix = '/insight-api';
 
 var init = function(network, provider, prefix) {
