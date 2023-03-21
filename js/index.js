@@ -1,4 +1,6 @@
 var Bitcore = require('@axerunners/axecore-lib');
+const exists = require('fs').existsSync;
+
 
 var socket;
 var paymentCycle;
