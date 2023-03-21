@@ -16,5 +16,5 @@ if [ "$DEPLOY_ENV" = "production" ]; then
     --exclude package.json \
     --exclude scripts \
     --delete-after \
-    . rooty@154.12.237.243:8000/var/www/govobject-proposal/
+    . root@154.12.237.243:8000/var/www/govobject-proposal/
 fi
