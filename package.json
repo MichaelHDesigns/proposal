@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/axerunners/proposal-generator#readme",
   "devDependencies": {
-    "@axerunners/axecore-lib": "^https://github.com/MichaelHDesigns/umbrucore-lib",
+    "@axerunners/axecore-lib": "https://github.com/MichaelHDesigns/umbrucore-lib",
     "browserify": "^16.2.3",
     "eslint": "^5.13.0"
   }
